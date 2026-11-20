@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sredisce-ob-dravi.webvisit360.com/sitemap.xml
