@@ -7,8 +7,8 @@ LinkBehaviour_82F67D1F_C7BC_DEFF_41C9_9356EE4A73FC.source = https://www.facebook
 LinkBehaviour_85127D2E_C7BD_BEC1_41D4_B162FACDEA57.source = https://www.facebook.com/obcinasredisceobdravi.uradno
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60636.925888271224!2d16.216128084491757!3d46.40878492187699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f519a4687d0cd%3A0x23f05f623b2aff04!2zT2LEjWluYSBTcmVkacWhxI1lIG9iIERyYXZpLCAyMjc3IFNyZWRpxaHEjWUgb2IgRHJhdmk!5e1!3m2!1ssl!2ssi!4v1783544536214!5m2!1ssl!2ssi
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60636.925888271224!2d16.216128084491757!3d46.40878492187699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f519a4687d0cd%3A0x23f05f623b2aff04!2zT2LEjWluYSBTcmVkacWhxI1lIG9iIERyYXZpLCAyMjc3IFNyZWRpxaHEjWUgb2IgRHJhdmk!5e1!3m2!1ssl!2ssi!4v1783544536214!5m2!1ssl!2ssi
-LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.obcina-tabor.si/
-LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.obcina-tabor.si/
+LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.sredisce-ob-dravi.si/
+LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.sredisce-ob-dravi.si/
 
 ## Media
 
